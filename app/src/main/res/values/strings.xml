@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Art-Therapy</string>
+    <string name="delete_drawing">Confirm</string>
+    <string name="new_drawing_warning">Sure you want to Erase Artwork?</string>
+    <string name="notification_title">Warning!</string>
+    <string name="notification_text">Want to Draw?</string>
+    <string name="menu_item_uninstall">Remove</string>
+</resources>
